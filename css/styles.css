@@ -1,0 +1,17 @@
+td {
+ border: 3px solid #fff;
+ padding: .8rem;
+ background-color: #99ffd4;
+}
+
+th {
+  border: 3px solid #fff;
+  padding: 0.4rem;
+  background-color: #3366ff;
+}
+
+table {
+  border-collapse: collapse;
+  font-family: "Helvetica", sans-serif;
+  font-size: 14px;
+}
